@@ -48,9 +48,9 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
   * Area code: 73
 
 3.
-  * first_name:
-  * county:
-  * county total:
+  * first_name: Andra
+  * county: New York
+  * county total: 14
 
 
 ## Summary
